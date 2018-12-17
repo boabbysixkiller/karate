@@ -26,5 +26,5 @@
   * See yak video 3, 4
 
 * Drills
-  *https://youtu.be/3BrATMBZqlw?t=3568
+  * https://youtu.be/3BrATMBZqlw?t=3568
   * Kizami yak - attacking, defend with mwash, ura and yak
