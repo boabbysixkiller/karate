@@ -1,4 +1,4 @@
-# Training
+# Current Training
 
 * Yak
   * Yak straight line to target
@@ -6,13 +6,17 @@
   * No going round the side
   * See yak video 3, 4
 
+* Kizami
+  * Work hard on kizami
+  * Find good kizami video
+
 * Drills
   * https://youtu.be/3BrATMBZqlw?t=3568
   * Kizami yak - attacking, defend with mwash, ura and yak
 
 
 
-# Core
+# Core Training
 
 * Gyaku zuki
 * Kizami
