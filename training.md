@@ -44,7 +44,7 @@
 * Chudan back leg (kizami, gyak, chudan back leg)
 * Bigger step when gyaking
 * Better blocking
-*distance with kizami
+* distance with kizami
 
 ## Try
 * Kizami > pretend yak > back leh mwashi geri, first throw kizami tak
