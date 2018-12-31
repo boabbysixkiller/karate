@@ -22,17 +22,18 @@
 * Kizami
 * Mawashi Geri
 * Ura Mawashi Geri
- * Gyaku zuki > Mawashi Geri
+* Gyaku zuki > Mawashi Geri
 * Kizami > Mawashi Geri
 * Kizami > Ura
 * Kizami > Gyaku zuki
 * Kizami > Gyaku zuki > Mawashi Geri
+* Kizami > Take out guard > Gyaku zuki
+* Yak Chudan > Take out guard > Tak Jodan
 
 * All speed and technique
 
 ## Working On
 
-* Kizami > Take out guard > Gyaku zuki
 * Kizami - technique then switch stance, guard
 * Kizami (lefevre video - concentrate session on this, kizami, partner block /gyak)
 * Kizami > Yak > sweep from leg
