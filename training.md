@@ -47,6 +47,8 @@
 * When opponent attack with kick > Block and gyaku zuki
 * Double front leg mwashi, low - high
 * Double back leg, chudan - jodan.
+* Ura - sweep.
+* Front leg sweep after yak.
 
 ## Nicholas
 * Feinting attacks
