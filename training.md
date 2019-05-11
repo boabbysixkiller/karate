@@ -4,11 +4,8 @@
   * Work hard on kizami
   * Find good kizami video - Douglas Brose
 
-* Tactics
-  * Pull down face yak x 2
-  * Feint yak, back leg chudan x 2
-  * Feint yak, look at body, back leg jodan x 2
-  * Feint yak, back leg sweep x 2
+  * Attacker yak - counter slip mwashi geri
+
 
 # Core Training
 
@@ -26,6 +23,7 @@
 
 * All speed and technique
 
+
 # Future Training
 
 * Yak
@@ -36,8 +34,7 @@
   
 * Drills
   * https://youtu.be/3BrATMBZqlw?t=3568
-  * Kizami yak - attacking, defend with mwash, ura and yak
-  * Attacker yak - counter slip mwashi geri
+  * Kizami yak - attacking, defend with mwash, ura and yak  
 
 ## Working On
 
@@ -78,20 +75,6 @@
 * Kizami
 * Ura Mwashi Geri
 
-# Competition
-
-* No leading with kicks
-* If kicking first - lightning quick kick and get out
-* Remain calm and in control
-  * no panic if falling behind
-  * always good quality techniques
-
-## Combinations
-
-* Kizamis need to be close to opponent
-* Throw some scoring Kizamis early
-* Block, guard
-* Dont throw technique s when too far away
 
 # Training
 
