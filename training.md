@@ -1,26 +1,14 @@
 # Current Training
 
-* Yak
-  * Yak straight line to target
-  * pulling back
-  * No going round the side
-  * See yak video 3, 4
-
 * Kizami
   * Work hard on kizami
   * Find good kizami video - Douglas Brose
-
-* Drills
-  * https://youtu.be/3BrATMBZqlw?t=3568
-  * Kizami yak - attacking, defend with mwash, ura and yak
-  * Attacker yak - counter slip mwashi geri
 
 * Tactics
   * Pull down face yak x 2
   * Feint yak, back leg chudan x 2
   * Feint yak, look at body, back leg jodan x 2
   * Feint yak, back leg sweep x 2
-
 
 # Core Training
 
@@ -37,6 +25,19 @@
 * Yak Chudan > Take out guard > Tak Jodan
 
 * All speed and technique
+
+# Future Training
+
+* Yak
+  * Yak straight line to target
+  * pulling back
+  * No going round the side
+  * See yak video 3, 4
+  
+* Drills
+  * https://youtu.be/3BrATMBZqlw?t=3568
+  * Kizami yak - attacking, defend with mwash, ura and yak
+  * Attacker yak - counter slip mwashi geri
 
 ## Working On
 
