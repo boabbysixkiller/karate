@@ -95,7 +95,7 @@
 # Training
 
 * All basics on pads
-* Work on things
+* Drilling techniques/combinations
 * Light sparring
 * Mwash - blocking
 * Ura - blocking
