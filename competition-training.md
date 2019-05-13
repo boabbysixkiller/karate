@@ -18,6 +18,13 @@
   * opponents front leg with back leg
 
 
+## Curent Drills
+
+* opponant yak - slip mwashi geri
+* kizami
+* ura - ashai baria
+* look for counter when opponent moves back out
+
 ## Key Points
 
 * No leading with kicks
