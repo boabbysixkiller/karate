@@ -8,6 +8,7 @@
 * kizami - mwashi geri
 * yak chudan - yak jodan
 * pull down guard - yak jodan
+* pull down guard - yak jodan - mwashi jodan / ura 
 * kizami - ura
 * ura - sweep
 * yak jodan - back leg mwashi chudan
