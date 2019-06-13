@@ -8,7 +8,7 @@
 * kizami - mwashi geri
 * yak chudan - yak jodan
 * pull down guard - yak jodan
-* pull down guard - yak jodan - mwashi jodan / ura 
+* pull down guard - yak jodan - mwashi jodan / ura
 * kizami - ura
 * ura - sweep
 * yak jodan - back leg mwashi chudan
@@ -17,7 +17,6 @@
 * always look to sweep leg
   * opponents front leg after yak
   * opponents front leg with back leg
-
 
 ## Curent Drills
 
