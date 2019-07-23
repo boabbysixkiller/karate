@@ -40,3 +40,7 @@
 * Throw some scoring Kizamis early
 * Block, guard
 * Dont throw technique s when too far away
+
+## Mindset
+
+* No doubts - confident, clear what your going to do
