@@ -23,6 +23,11 @@
 
 * All speed and technique
 
+## New Techniques
+
+* Chudan Mwash > Jodan Mwash
+* Jodan Mwash > Ura
+
 
 # Future Training
 
