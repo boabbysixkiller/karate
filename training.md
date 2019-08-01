@@ -34,7 +34,9 @@
   
 * Drills
   * https://youtu.be/3BrATMBZqlw?t=3568
-  * Kizami yak - attacking, defend with mwash, ura and yak  
+    * Kizami yak - attacking, defend with mwash, ura and yak  
+  * https://youtu.be/3BrATMBZqlw?t=3380
+    * Ura - Ura > Ashi Barai
 
 ## Working On
 
