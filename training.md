@@ -31,6 +31,7 @@
   * pulling back
   * No going round the side
   * See yak video 3, 4
+  * https://youtu.be/3BrATMBZqlw?t=1961
   
 * Drills
   * https://youtu.be/3BrATMBZqlw?t=3568
