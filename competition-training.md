@@ -35,6 +35,13 @@
 
 ## Notes
 
+### Main
+
+* stay calm and in control
+* no rushing in, take time - feint - attack - back out - defend - all the time staying calm and in control
+
+### General Fighting
+
 * Kizamis need to be close to opponent
 * Throw some scoring Kizamis early
 * Block, guard
