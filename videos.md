@@ -14,3 +14,6 @@
 * https://youtu.be/3BrATMBZqlw?t=2303
 * https://youtu.be/3BrATMBZqlw?t=2283
 * https://youtu.be/3BrATMBZqlw?t=475
+
+# General
+* https://www.facebook.com/karatestarsapp/videos/2395521680487564/

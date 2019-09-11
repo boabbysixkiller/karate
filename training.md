@@ -23,6 +23,11 @@
 
 * All speed and technique
 
+## New Techniques
+
+* Chudan Mwash > Jodan Mwash
+* Jodan Mwash > Ura
+
 
 # Future Training
 
@@ -31,10 +36,13 @@
   * pulling back
   * No going round the side
   * See yak video 3, 4
+  * https://youtu.be/3BrATMBZqlw?t=1961
   
 * Drills
   * https://youtu.be/3BrATMBZqlw?t=3568
-  * Kizami yak - attacking, defend with mwash, ura and yak  
+    * Kizami yak - attacking, defend with mwash, ura and yak  
+  * https://youtu.be/3BrATMBZqlw?t=3380
+    * Ura - Ura > Ashi Barai
 
 ## Working On
 
