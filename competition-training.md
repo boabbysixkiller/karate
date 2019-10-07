@@ -4,6 +4,7 @@
 
 * yak
 * yak - mwashi geri
+* yak - ura
 * kizami
 * kizami - mwashi geri
 * yak chudan - yak jodan
@@ -22,9 +23,10 @@
 ## Curent Drills
 
 * opponant yak - slip mwashi geri
-* kizami
+* kizami - keep looking at opponant, no dipping head
 * ura - ashai baria
 * look for counter when opponent moves back out
+* follow up attack with another attack
 
 ## Key Points
 
