@@ -23,7 +23,7 @@
 ## Curent Drills
 
 * opponant yak - slip mwashi geri
-* kizami - keep looking at opponant, no dipping head
+* kizami - keep looking at opponent, no dipping head
 * ura - ashai baria
 * look for counter when opponent moves back out
 * follow up attack with another attack

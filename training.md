@@ -14,6 +14,7 @@
 * Mawashi Geri
 * Ura Mawashi Geri
 * Gyaku zuki > Mawashi Geri
+* Gyaku zuki > Ura Mwashi Geri
 * Kizami > Mawashi Geri
 * Kizami > Ura
 * Kizami > Gyaku zuki
