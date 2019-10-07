@@ -9,7 +9,7 @@
 * kizami - mwashi geri
 * yak chudan - yak jodan
 * pull down guard - yak jodan
-* pull down guard - yak jodan - mwashi jodan / ura 
+* pull down guard - yak jodan - mwashi jodan / ura
 * kizami - ura
 * ura - sweep
 * yak jodan - back leg mwashi chudan
@@ -19,14 +19,15 @@
   * opponents front leg after yak
   * opponents front leg with back leg
 
-
 ## Curent Drills
 
 * opponant yak - slip mwashi geri
 * kizami - keep looking at opponent, no dipping head
-* ura - ashai baria
-* look for counter when opponent moves back out
 * follow up attack with another attack
+* look for counter when opponent moves back out
+* Ura - Ura > Ashi Baria, alternate turns
+* Defense - yak - move out of distance, block and move out of distance, counter with yak, counter with mwashi get, counter with ura
+* Defense - slip then mwashi geri
 
 ## Key Points
 
@@ -37,6 +38,13 @@
   * always good quality techniques
 
 ## Notes
+
+### Main
+
+* stay calm and in control
+* no rushing in, take time - feint - attack - back out - defend - all the time staying calm and in control
+
+### General Fighting
 
 * Kizamis need to be close to opponent
 * Throw some scoring Kizamis early
