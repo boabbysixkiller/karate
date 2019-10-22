@@ -8,6 +8,7 @@
 
 # Kizami Mwashi Geri
 
+* https://www.youtube.com/watch?v=SqxM28aurbI
 * https://youtu.be/1ZhYV6AsrVY?t=135
 * https://youtu.be/1ZhYV6AsrVY?t=42
 
