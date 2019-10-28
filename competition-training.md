@@ -18,6 +18,9 @@
 * always look to sweep leg
   * opponents front leg after yak
   * opponents front leg with back leg
+* sweep
+  * step through yak, sweep with hip
+* step to side to slip - ura
 
 ## Curent Drills
 
