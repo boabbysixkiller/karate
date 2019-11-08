@@ -31,6 +31,7 @@
 * Ura - Ura > Ashi Baria, alternate turns
 * Defense - yak - move out of distance, block and move out of distance, counter with yak, counter with mwashi get, counter with ura
 * Defense - slip then mwashi geri
+* dip - step wide - ura
 
 ## Key Points
 
