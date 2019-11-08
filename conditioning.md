@@ -8,6 +8,7 @@
 
 ## General
 
+* lunge jumps - with / without kettlebell
 * box jumps
 * squats - free / 4kg kettlebells
 * lunges - free / 4kg kettlebells
