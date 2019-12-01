@@ -25,6 +25,7 @@
 ## Curent Drills
 
 * opponant yak - slip mwashi geri
+* feint - feint - change line - pull down gyak
 * kizami - keep looking at opponent, no dipping head
 * follow up attack with another attack
 * look for counter when opponent moves back out
