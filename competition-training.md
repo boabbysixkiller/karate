@@ -9,6 +9,7 @@
 * kizami - mwashi geri
 * yak chudan - yak jodan
 * pull down guard - yak jodan
+* feint, slip to side, pull down yak jodan
 * pull down guard - yak jodan - mwashi jodan / ura
 * kizami - ura
 * ura - sweep
@@ -21,6 +22,7 @@
 * sweep
   * step through yak, sweep with hip
 * step to side to slip - ura
+* defensive mwashi geri or ura - when opponant moves in kick
 
 ## Curent Drills
 
